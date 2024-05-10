@@ -1,0 +1,14 @@
+C:\Users\benja\OneDrive\Desktop\School\Spring 2024\CIDM 3312\VSS\List Review\bin\Debug\net8.0\List Review.exe
+C:\Users\benja\OneDrive\Desktop\School\Spring 2024\CIDM 3312\VSS\List Review\bin\Debug\net8.0\List Review.deps.json
+C:\Users\benja\OneDrive\Desktop\School\Spring 2024\CIDM 3312\VSS\List Review\bin\Debug\net8.0\List Review.runtimeconfig.json
+C:\Users\benja\OneDrive\Desktop\School\Spring 2024\CIDM 3312\VSS\List Review\bin\Debug\net8.0\List Review.dll
+C:\Users\benja\OneDrive\Desktop\School\Spring 2024\CIDM 3312\VSS\List Review\bin\Debug\net8.0\List Review.pdb
+C:\Users\benja\OneDrive\Desktop\School\Spring 2024\CIDM 3312\VSS\List Review\obj\Debug\net8.0\List Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Desktop\School\Spring 2024\CIDM 3312\VSS\List Review\obj\Debug\net8.0\List Review.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Desktop\School\Spring 2024\CIDM 3312\VSS\List Review\obj\Debug\net8.0\List Review.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Desktop\School\Spring 2024\CIDM 3312\VSS\List Review\obj\Debug\net8.0\List Review.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Desktop\School\Spring 2024\CIDM 3312\VSS\List Review\obj\Debug\net8.0\List Review.dll
+C:\Users\benja\OneDrive\Desktop\School\Spring 2024\CIDM 3312\VSS\List Review\obj\Debug\net8.0\refint\List Review.dll
+C:\Users\benja\OneDrive\Desktop\School\Spring 2024\CIDM 3312\VSS\List Review\obj\Debug\net8.0\List Review.pdb
+C:\Users\benja\OneDrive\Desktop\School\Spring 2024\CIDM 3312\VSS\List Review\obj\Debug\net8.0\List Review.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Desktop\School\Spring 2024\CIDM 3312\VSS\List Review\obj\Debug\net8.0\ref\List Review.dll
